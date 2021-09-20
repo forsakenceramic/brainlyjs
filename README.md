@@ -9,4 +9,4 @@ There you will find a gear icon in the top right. From there, click "Install Add
 firefox
 
 # Release
-pending firefox verification
+https://addons.mozilla.org/firefox/downloads/file/3842697/brainlyjs-1.0.0-fx.xpi
